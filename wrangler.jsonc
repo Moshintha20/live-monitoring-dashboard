@@ -4,5 +4,12 @@
   "compatibility_date": "2026-09-05",
   "assets": {
     "directory": "./frontend"
-  }
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "gold-rates-db",
+      "database_id": "bb806859-2ace-42d6-a38a-94c3004c0410"
+    }
+  ]
 }
